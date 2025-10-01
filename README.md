@@ -1,4 +1,4 @@
-# Frontend Template - Next.js 15 + Tailwind CSS v4 + Supabase
+# Excellence Website
 
 A modern SaaS template built with Next.js 15, Tailwind CSS v4, Shadcn UI v2, Upstash Redis, and Supabase.
 
@@ -29,26 +29,17 @@ Refer to the [Installation Guides](#installation-guides) Section of this README 
 
 ## Getting Started
 
-### 1. Setup the project
-
-#### Option 1: Clone the repository
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/devsForFun/starterkit.git
-cd starterkit
+git clone https://github.com/hamawebdev/excellence.git
+cd excellence
 ```
-
-#### Option 2: Create a repository on GitHub, using this template.
-
-1. Visit [github.com/devsforfun/starterkit](https://github.com/devsForFun/starterkit)
-2. Click on the **Use this template** button on the top right corner.
-3. Create your repository and clone it.
-
 ### 2. Install dependencies
 
 ```bash
 # recomended:
-pnpm intstall
+pnpm install
 # or
 npm install
 # or
